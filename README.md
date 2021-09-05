@@ -10,7 +10,11 @@
 # Demostracion
 * Jugabilidad
 
+<img width = 50% height = 50% src = https://github.com/MarcoPaoletta/Touch/blob/master/gameplay.gif>
+
 * Tienda
+
+<img width = 50% height = 50% src = https://github.com/MarcoPaoletta/Touch/blob/master/shop.png>
 
 ---
 # Descargar Godot Engine e importar el proyecto
